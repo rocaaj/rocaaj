@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on: turning my GitHub into a polished portfolio of end-to-end ML projects<br>📲 I’m looking to collaborate on: ML/DL pipelines + experimental quant trading ideas<br>🤝 I’m looking for help with: scaling ML projects into production-ready systems + networking<br>🌱 I’m currently learning: CI/CD for ML with Docker, GitHub Actions, AWS/Vertex AI, C++<br>💬 Ask me about: Soccer, music, fashion, video games<br>⚡ Fun fact: I play semi-professional soccer, and many of my projects come directly from ideas I’ve had on the pitch!
+# About:
+🔭 I’m currently working on: ERP-Based AD Detection with Deep Learning research (looking to publish)<br>🤝 I’m looking for help with: networking<br>🌱 I’m currently learning: RL, CAS, ABM, C++<br>💬 Ask me about: Soccer, music, video games<br>⚡ Fun fact: I play professional soccer, and many of my projects come directly from ideas I’ve had on the pitch!
 
 
 ## 🌐 Socials:
